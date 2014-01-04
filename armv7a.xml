@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+	 
+	 <remote name="armv7a" fetch="https://github.com/" />
+	 <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" remote="armv7a" revision="cm-10.1"/>
+
+	</manifest>
+	 

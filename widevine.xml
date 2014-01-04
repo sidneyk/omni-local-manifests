@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+	 
+	 <remote name="widevine" fetch="https://github.com/" />
+	 <project path="vendor/widevine/" name="sidneyk/vendor-widevine-tf101" remote="widevine" revision="master"/>
+	 
+	</manifest>
+	 

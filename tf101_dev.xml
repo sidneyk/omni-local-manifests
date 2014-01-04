@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+
+	 <remote name="tf101dev" fetch="https://github.com/" />
+	 <project path="device/asus/tf101" name="sidneyk/android-device-asus-tf101" remote="tf101dev" revision="master"/>
+	 
+	</manifest>
+	 

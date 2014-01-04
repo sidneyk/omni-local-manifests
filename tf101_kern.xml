@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+	 
+	 <remote name="tf101kern" fetch="https://github.com/" />
+	 <project path="kernel/asus/tf101" name="sidneyk/tf101-katkernel" remote="tf101kern" revision="master"/>
+	 
+	</manifest>
+	 

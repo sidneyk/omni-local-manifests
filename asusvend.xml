@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+	 
+	 <remote name="asusvend" fetch="https://github.com/" />
+	 <project path="vendor/asus/" name="sidneyk/vendor-asus-tf101" remote="asusvend" revision="master"/>
+	 
+	</manifest>
+	 

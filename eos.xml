@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+	 
+	 <remote name="eosvend" fetch="https://github.com/" />
+	 <project path="vendor/eos/" name="sidneyk/vendor-eos" remote="eosvend" revision="master"/>
+	 
+	</manifest>
